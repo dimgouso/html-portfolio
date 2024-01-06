@@ -10,7 +10,3 @@
 ## Motion in Two Dimensions
 
 * [🚀 Projectile Motion](motion-in-two-dimensions/projectile-motion.md)
-
-## Policies
-
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
